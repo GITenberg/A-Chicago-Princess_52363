@@ -5,6 +5,9 @@ contributor:
     agent_name: Wightman, Francis P.
     gutenberg_agent_id: '46817'
     url: http://www.gutenberg.org/2009/agents/46817
+covers:
+- cover_type: archival
+  image_path: 52363-h/images/cover.jpg
 creator:
   author:
     agent_name: Barr, Robert
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1616
     wikipedia: http://en.wikipedia.org/wiki/Robert_Barr_%28writer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52363#A-Chicago-Princess
 gutenberg_issued: '2016-06-18'
 gutenberg_type: Text
 identifiers:
